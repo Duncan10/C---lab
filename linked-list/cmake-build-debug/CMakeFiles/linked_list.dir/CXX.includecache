@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Duncan/CLionProjects/C++14/linked_list/List.cpp
+List.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/List.h
+ListIterator.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListIterator.h
+stdexcept
+C:/Users/Duncan/CLionProjects/C++14/linked_list/stdexcept
+
+C:/Users/Duncan/CLionProjects/C++14/linked_list/List.h
+cstddef
+-
+ListItem.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListItem.h
+iostream
+-
+
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListItem.h
+
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListIterator.cpp
+ListIterator.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListIterator.h
+
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListIterator.h
+List.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/List.h
+
+C:/Users/Duncan/CLionProjects/C++14/linked_list/main.cpp
+iostream
+-
+List.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/List.h
+ListIterator.h
+C:/Users/Duncan/CLionProjects/C++14/linked_list/ListIterator.h
+
