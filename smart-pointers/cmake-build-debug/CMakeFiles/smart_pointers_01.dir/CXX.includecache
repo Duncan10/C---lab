@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Duncan/CLionProjects/C++14/smart_pointers_01/TreeNode.cpp
+iostream
+-
+TreeNode.hpp
+C:/Users/Duncan/CLionProjects/C++14/smart_pointers_01/TreeNode.hpp
+
+C:/Users/Duncan/CLionProjects/C++14/smart_pointers_01/TreeNode.hpp
+memory
+-
+
+C:/Users/Duncan/CLionProjects/C++14/smart_pointers_01/main.cpp
+iostream
+-
+TreeNode.hpp
+C:/Users/Duncan/CLionProjects/C++14/smart_pointers_01/TreeNode.hpp
+
