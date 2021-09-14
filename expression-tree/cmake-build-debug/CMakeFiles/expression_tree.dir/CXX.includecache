@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/BinaryExpression.hpp
+Expression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/Expression.hpp
+
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/Expression.hpp
+
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/MinusExpression.hpp
+BinaryExpression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/BinaryExpression.hpp
+
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/NumberExpression.hpp
+Expression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/Expression.hpp
+
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/PlusExpression.hpp
+BinaryExpression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/BinaryExpression.hpp
+
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/main.cpp
+iostream
+-
+NumberExpression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/NumberExpression.hpp
+PlusExpression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/PlusExpression.hpp
+MinusExpression.hpp
+C:/Users/Duncan/CLionProjects/C++14/expression-tree/MinusExpression.hpp
+
